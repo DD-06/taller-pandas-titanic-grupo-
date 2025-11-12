@@ -17,11 +17,6 @@ data/
 *.csv
 
 
-outputs/
-outputs/tablas/
-outputs/graficos/
-
-
 .env
 .env/
 venv/
